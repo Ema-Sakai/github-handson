@@ -13,3 +13,10 @@ README作成後（4/19）、「打ち込んだコードと結果」の画像を�
 その後運営にアカウント復活の申し立てをし、4月24日にようやく解除された。  
 今回なぜ垢バンされたのか、トリガーについて運営に確認中。
 もし返答をもらえたら、それについてさらに追記したい。
+
+## 2024/04/27追記
+4/24に追記後の午前0時過ぎに、またしても垢バンされた。  
+原因含め運営に問い合わせたところ、  
+「We've investigated this issue and found the root cause to be an error in how malicious behavior was flagged, causing the suspension of some accounts. This error has been resolved and the affected accounts have been reinstated.」と返答が。  
+ざっくり訳すと、「垢バン対象者を検知する仕組みが一時的におかしかった」らしいです。  
+なんにせよアカウントが戻ってきてほっとした～！
